@@ -1,6 +1,7 @@
 サイトURL
 https://proshopapptrial.herokuapp.com
-
+サイト説明書
+https://github.com/Jun1289/proshopapptrial/blob/master/introduction.pdf
 
 サイトでできること
 ・商品の購入（ペイパル仮アカウントでの決済）
