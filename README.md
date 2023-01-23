@@ -1,5 +1,6 @@
-# proshopapptrial
-ECサイト(proshopapptrial)のコード
+サイトURL
+https://proshopapptrial.herokuapp.com
+
 
 サイトでできること
 ・商品の購入（ペイパル仮アカウントでの決済）
